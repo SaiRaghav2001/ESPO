@@ -16,6 +16,9 @@
 
                     {{ __('You are logged in!') }}
                 </div>
+                <div>
+                    <h1>fuiowehfpwghpiwen</h1>
+                </div>
             </div>
         </div>
     </div>
